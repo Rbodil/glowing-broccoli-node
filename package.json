@@ -1,0 +1,19 @@
+{
+  "name": "solonode",
+  "version": "1.0.0",
+  "description": "A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/) and [express.js](https://expressjs.com/)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.9",
+    "path": "^0.12.7"
+  }
+}
